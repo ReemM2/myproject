@@ -4,5 +4,8 @@ color:rgb(242, 5, 151);
 }
 body{
     background-color: rgb(216, 211, 211);
+ h2{
 
+    color: #000;
+ }
 }
